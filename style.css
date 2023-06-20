@@ -1,0 +1,11 @@
+ul{
+    display: flex;
+    gap: 5em;
+    font-size: 3em;
+    background: rgb(212, 160, 160);
+    justify-content: space-between;
+}
+ul li{
+    display: block;
+    color: aqua;
+}
